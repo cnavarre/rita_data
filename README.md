@@ -1,2 +1,2 @@
-rita_data
-=========
+RITA data collector
+===================
